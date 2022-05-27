@@ -5,7 +5,7 @@ A app to keep records of two persons playing a game
 
 * [Description](#Description)
 * [Process](#Process)
-* [Dependcy](#Dependency
+* [Dependency](#Dependency)
 
 ## Description
 
